@@ -29,3 +29,4 @@ print(f"type of dob : {type(dob)}")
 student_info = ["Charlie" , 21, 88.0]
 name , age, score = student_info
 print("unpacked:", name, age, score)
+
